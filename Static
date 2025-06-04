@@ -19,3 +19,4 @@ document.addEventListener('DOMContentLoaded', () => {
     // Cambiar las iniciales del usuario (esto depende de tu lógica backend)
     const userInitials = 'DN'; // Suponiendo que 'DN' son las iniciales del usuario
     document.getElementById('user-initials').textContent = userInitials;
+});
